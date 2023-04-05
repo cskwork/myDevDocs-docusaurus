@@ -1,0 +1,10 @@
+position: 2.5 # float position is supported
+label: 'Developer Documentation'
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+className: red
+link:
+  type: generated-index
+  title: Developer Documentation
+customProps:
+  description: This description can be used in the swizzled DocCard
